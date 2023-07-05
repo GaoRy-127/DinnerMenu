@@ -30,4 +30,6 @@ This code starts from this conversation
    > Algorithm will be angry!!!
    
 
-## Others..   
+## Result
+<img src = "output.png" width="280" height="222">  
+
